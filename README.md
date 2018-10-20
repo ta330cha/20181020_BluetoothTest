@@ -1,0 +1,2 @@
+# 20181020_BluetoothTest
+PythonでBluetooth接続の練習
